@@ -1,6 +1,8 @@
 Creative things to do with a DSLR
 ====================
 
+Technique
+---------
 
 #### 360 Photography ####
 _Take multiple photos of a product and turn it around_
@@ -21,6 +23,7 @@ _Shooting with the Sun behind or flash (5.6 apperature?)_
 _G'Mic for GIMP great for BW_
 
 #### Bokeh ####
+_Bluring the background of a photo_
 
 #### Brenizer Method ####
 - [Bokeh Panorama](http://brenizermethod.vhx.tv/)
@@ -96,6 +99,7 @@ _Mainly dark but with highlights coloured in - kind of like a coloured NOIR phot
 #### Lighting Modifiers (for Flash) ####
 _Artificial lighting to enhance or otherwise alter the creative language of a photo. "The language of light" as Joe McNally would put it._
 - [Getting The Most Out Of Your Modifiers](https://fstoppers.com/bts/getting-most-out-your-modifiers-49112)
+- [10 Different Lighting Setups Using A single Light And A Single Softbox](http://www.diyphotography.net/10-different-lighting-setups-using-a-single-light-and-a-single-softbox/)
 
 #### Long Exposure (Day) ####
 _Water Streaking (Choppy or Overcast day is best) / Time Stacking_
@@ -114,7 +118,7 @@ _Like a cineagraph but usually a portrait._
 - [Macro Photography on a Budget](http://digital-photography-school.com/macro-photography-budget/)
 
 #### Negative Fill ####
-_Blocking Ambiant Light_
+_Blocking Ambient Light_
 - [Learn How, When and Why to Use Negative Fill (Including DIY Solutions)](http://www.diyphotography.net/learn-how-when-and-why-to-use-negative-fill-including-diy-solutions/)
 
 #### New Born Photopgraphy ####
@@ -134,10 +138,6 @@ _2.5D photo_
 _360x180 degree photo_
 - [Microsoft ICE](http://research.microsoft.com/en-us/um/redmond/projects/ice/)
 
-#### Portrait ####
-_Wavelet Decompose_
-- [Getting Around in GIMP - Skin Retouching (Wavelet Decompose) ](http://blog.patdavid.net/2011/12/getting-around-in-gimp-skin-retouching.html)
-
 #### Portrait with Flash ####
 _Balance Flash with Ambient light_
 - [How to Mix Ambient Light and Fill-Flash for Outdoor Portraits](http://digital-photography-school.com/how-to-mix-ambient-light-and-fill-flash-for-outdoor-portraits/)
@@ -149,7 +149,7 @@ _Turn bad light into good light_
 - [Sunshine: My Favorite Light Source](http://digital-photography-school.com/sunshine-my-favorite-light-source/)
 
 #### Sideways Photography ####
-- [Turn the world around ](https://www.youtube.com/watch?v=eTJCbAMjU7s)
+- [Turn the world around](https://www.youtube.com/watch?v=eTJCbAMjU7s)
 
 #### Silhouettes ####
 _Take photos into the sun with the subject appearing mainly black_
@@ -157,8 +157,21 @@ _Take photos into the sun with the subject appearing mainly black_
 
 #### Super-Resolution Photographs ####
 _Multiple Photos taken with a slight shake. Align and overlay images to get past Bayer filter._
-- [Enhance! A Practical Superresolution Tutorial in Adobe Photoshop](http://photoncollective.com/enhance-practical-superresolution-in-adobe-photoshop) -  [Video](https://www.youtube.com/watch?v=o7POpid-e8U)
+- [Enhance! A Practical Super resolution Tutorial in Adobe Photoshop](http://photoncollective.com/enhance-practical-superresolution-in-adobe-photoshop) -  [Video](https://www.youtube.com/watch?v=o7POpid-e8U)
 
 #### Tripod ####
 _Place your camera at the end of your tripod/mono pod and take photos of a different perspective_
 - [Monopod Technique for Elevated Photo Perspectives](http://www.picturecorrect.com/tips/extra-reach-monopod-technique-for-elevated-photo-perspectives/)
+
+Post Processing
+---------------
+
+#### Hue Adjustment ####
+[How to Create a Surreal Look in Photoshop Using Hue Adjustment](http://digital-photography-school.com/how-to-create-a-surreal-look-in-photoshop-using-hue-adjustment/)
+
+#### Dodge and Burn ####
+- [Dodge & Burn – With Great Power Comes Great Responsibility](http://www.diyphotography.net/dodge-burn-with-great-power-comes-great-responsibility/)
+
+#### Portrait ####
+_Wavelet Decompose_
+- [Getting Around in GIMP - Skin Retouching (Wavelet Decompose) ](http://blog.patdavid.net/2011/12/getting-around-in-gimp-skin-retouching.html)
