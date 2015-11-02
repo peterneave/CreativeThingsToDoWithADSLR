@@ -167,7 +167,7 @@ Post Processing
 ---------------
 
 #### Hue Adjustment ####
-[How to Create a Surreal Look in Photoshop Using Hue Adjustment](http://digital-photography-school.com/how-to-create-a-surreal-look-in-photoshop-using-hue-adjustment/)
+- [How to Create a Surreal Look in Photoshop Using Hue Adjustment](http://digital-photography-school.com/how-to-create-a-surreal-look-in-photoshop-using-hue-adjustment/)
 
 #### Dodge and Burn ####
 - [Dodge & Burn – With Great Power Comes Great Responsibility](http://www.diyphotography.net/dodge-burn-with-great-power-comes-great-responsibility/)
