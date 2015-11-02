@@ -1,4 +1,4 @@
-Creative things to do with a DSLR
+Creative things to do with a DSLR
 ====================
 
 
