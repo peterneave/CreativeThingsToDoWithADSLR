@@ -27,6 +27,7 @@ _Bluring the background of a photo_
 
 #### Brenizer Method ####
 - [Bokeh Panorama](http://brenizermethod.vhx.tv/)
+- [Brenizer Method: how to shoot and stitch a bokeh panorama](http://www.digitalcameraworld.com/2015/11/10/brenizer-method-how-to-shoot-and-stitch-a-bokeh-panorama/)
 
 #### Chiaroscuro lighting ####
 _Low Key lighting_
