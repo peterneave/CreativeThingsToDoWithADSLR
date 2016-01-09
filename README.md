@@ -138,6 +138,7 @@ _2.5D photo_
 #### Photosphere ####
 _360x180 degree photo_
 - [Microsoft ICE](http://research.microsoft.com/en-us/um/redmond/projects/ice/)
+- [Patching Zenith and Nadir with GIMP and G'MIC](https://discuss.pixls.us/t/panography-patching-the-zenith-and-nadir/585)
 
 #### Portrait with Flash ####
 _Balance Flash with Ambient light_
