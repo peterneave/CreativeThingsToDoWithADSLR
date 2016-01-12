@@ -123,7 +123,7 @@ _Blocking Ambient Light_
 - [Learn How, When and Why to Use Negative Fill (Including DIY Solutions)](http://www.diyphotography.net/learn-how-when-and-why-to-use-negative-fill-including-diy-solutions/)
 
 #### New Born Photopgraphy ####
-- [3 Newborn Posing Setups Anyone Can Master](_http://digital-photography-school.com/3-newborn-posing-setups-anyone-can-master/)
+- [3 Newborn Posing Setups Anyone Can Master](http://digital-photography-school.com/3-newborn-posing-setups-anyone-can-master/)
 
 #### Panaramic ####
 _2+ Photos combined in a grid_
