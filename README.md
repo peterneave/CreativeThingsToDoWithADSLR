@@ -167,6 +167,8 @@ _Place your camera at the end of your tripod/mono pod and take photos of a diffe
 
 Post Processing
 ---------------
+### Curves Adjustment ####
+- [Curves Adjustment](http://www.diyphotography.net/curves-adjustments-layers-101-10-examples/)
 
 #### Hue Adjustment ####
 - [How to Create a Surreal Look in Photoshop Using Hue Adjustment](http://digital-photography-school.com/how-to-create-a-surreal-look-in-photoshop-using-hue-adjustment/)
