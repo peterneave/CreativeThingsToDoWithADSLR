@@ -167,6 +167,9 @@ _Place your camera at the end of your tripod/mono pod and take photos of a diffe
 
 Post Processing
 ---------------
+### Colour ###
+- [Understanding Colour](http://www.blenderguru.com/tutorials/understanding-colors/)
+
 ### Curves Adjustment ####
 - [Curves Adjustment](http://www.diyphotography.net/curves-adjustments-layers-101-10-examples/)
 
