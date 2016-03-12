@@ -169,6 +169,7 @@ Post Processing
 ---------------
 ### Colour ###
 - [Understanding Colour](http://www.blenderguru.com/tutorials/understanding-colors/)
+- [Popping colour in portaits](http://digital-photography-school.com/make-colors-pop-portraits-without-using-photoshop/)
 
 ### Curves Adjustment ####
 - [Curves Adjustment](http://www.diyphotography.net/curves-adjustments-layers-101-10-examples/)
@@ -182,3 +183,9 @@ Post Processing
 #### Portrait ####
 _Wavelet Decompose_
 - [Getting Around in GIMP - Skin Retouching (Wavelet Decompose) ](http://blog.patdavid.net/2011/12/getting-around-in-gimp-skin-retouching.html)
+
+Posing
+------
+
+#### Posing ####
+- [How to pose and angle the body for better portraits](http://digital-photography-school.com/how-to-pose-and-angle-the-body-for-better-portraits/)
