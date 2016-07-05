@@ -93,6 +93,9 @@ _Shoot person on a ladder, shoot background without subject and ladder - remove 
 
 #### Light Painting ####
 
+### Reflector ###
+- [6 Ways of Using Reflector to Take Better Portraits](http://digital-photography-school.com/6-ways-of-using-reflector-to-take-better-portraits/)
+
 #### Light Painting Portrait ####
 _Mainly dark but with highlights coloured in - kind of like a coloured NOIR photo_
 - [Light Painting Portrait examples on Google Image Search](https://encrypted.google.com/search?q=light+painting+portrait&tbm=isch)
