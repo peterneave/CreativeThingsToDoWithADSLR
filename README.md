@@ -193,3 +193,4 @@ Posing
 
 #### Posing ####
 - [How to pose and angle the body for better portraits](http://digital-photography-school.com/how-to-pose-and-angle-the-body-for-better-portraits/)
+- [Which size of the face is your best side](https://www.youtube.com/watch?v=x-pPQvN-pxU)
