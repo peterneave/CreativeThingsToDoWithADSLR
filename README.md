@@ -128,7 +128,7 @@ _Blocking Ambient Light_
 #### New Born Photopgraphy ####
 - [3 Newborn Posing Setups Anyone Can Master](http://digital-photography-school.com/3-newborn-posing-setups-anyone-can-master/)
 
-#### Panaramic ####
+#### Panoramic ####
 _2+ Photos combined in a grid_
 
 #### Panning Photography ####
