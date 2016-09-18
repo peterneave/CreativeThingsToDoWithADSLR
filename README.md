@@ -47,6 +47,7 @@ _Multiple Exposure Photography_
 #### Composition ####
 - [9 Photo Composition Tips (feat. Steve McCurry)](https://www.youtube.com/watch?v=7ZVyNjKSr0M)
 - [7 Tips for Using the Gestalt Theory for Better Composition](http://digital-photography-school.com/7-tips-for-using-the-gestalt-theory-for-better-composition/)
+[20 Composition Techniques That Will Improve Your Photos|http://petapixel.com/2016/09/14/20-composition-techniques-will-improve-photos/]
 
 #### Double Exposure ####
 - [Multiple exposure](http://en.wikipedia.org/wiki/Multiple_exposure)
