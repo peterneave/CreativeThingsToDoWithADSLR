@@ -71,7 +71,7 @@ _Take lens off camera and hold on an angle. Like a Len Baby._
 #### Golden Hour ####
 _Take photos during 'Golden Hour'_
 - [The Natural Light Cycle for Photographers](http://digital-photography-school.com/natural-light-cycle-photographers/)
-- [SunCalc](http://www.suncalc.net/)
+- [SunCalc - work out sun position based on location and time](http://www.suncalc.net/)
 
 #### HDR ####
 _3+ Exposure's combined_
