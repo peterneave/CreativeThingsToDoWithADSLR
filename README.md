@@ -161,6 +161,7 @@ _Turn bad light into good light_
 #### Silhouettes ####
 _Take photos into the sun with the subject appearing mainly black_
 - [Silhouette photography: tips for shooting into the sun](http://www.digitalcameraworld.com/2015/10/05/silhouette-photography-tips-how-to-shoot-into-the-sun/)
+- [Creating a Simple Silhouette](https://www.youtube.com/watch?v=fNgTe5jfQPk)
 
 #### Super-Resolution Photographs ####
 _Multiple Photos taken with a slight shake. Align and overlay images to get past Bayer filter._
