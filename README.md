@@ -149,6 +149,9 @@ _Balance Flash with Ambient light_
 - [How to Mix Ambient Light and Fill-Flash for Outdoor Portraits](http://digital-photography-school.com/how-to-mix-ambient-light-and-fill-flash-for-outdoor-portraits/)
 - [Using High Speed Flash to get a larger aperture](https://www.youtube.com/watch?v=KksX2sWR_DI)
 
+#### Portrait with Front Bokeh ####
+- [Front Bokeh Portraits](https://www.youtube.com/watch?v=RTPd5qsFIC8)
+
 #### Portrait with Sunlight ####
 _Turn bad light into good light_
 - [A Simple Tip to Turning ‘Bad’ Light Into ‘Good’ Light | Cliff Mautner](http://www.slrlounge.com/simple-tip-turning-bad-light-good-light-cliff-mautner/)
