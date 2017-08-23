@@ -158,6 +158,9 @@ _Turn bad light into good light_
 - [Nikon Behind the Scenes: Turning Harsh Light into Good Light ](https://www.youtube.com/watch?v=DD09kkSuy-c)
 - [Sunshine: My Favorite Light Source](http://digital-photography-school.com/sunshine-my-favorite-light-source/)
 
+#### Portraits in the Rain ####
+- [Portraits in the Rain](http://www.diyphotography.net/20-gorgeous-backlit-rainy-photos-tutorial-take)
+
 #### Sideways Photography ####
 - [Turn the world around](https://www.youtube.com/watch?v=eTJCbAMjU7s)
 
