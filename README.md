@@ -198,6 +198,8 @@ _Wavelet Decompose_
 
 Posing
 ------
+#### Smiling ####
+- [Getting your model to smile](https://www.youtube.com/watch?v=cQAOFE4QgC4)
 
 #### Posing ####
 - [How to pose and angle the body for better portraits](http://digital-photography-school.com/how-to-pose-and-angle-the-body-for-better-portraits/)
