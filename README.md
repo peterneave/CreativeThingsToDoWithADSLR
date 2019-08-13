@@ -180,6 +180,7 @@ _Place your camera at the end of your tripod/mono pod and take photos of a diffe
 Post Processing
 ---------------
 ### Colour ###
+- [Colour Scheme Designer](http://paletton.com)
 - [Understanding Colour](http://www.blenderguru.com/tutorials/understanding-colors/)
 - [Popping colour in portaits](http://digital-photography-school.com/make-colors-pop-portraits-without-using-photoshop/)
 
