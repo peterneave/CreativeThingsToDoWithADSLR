@@ -64,6 +64,9 @@ _Multiple Exposure Photography_
 - [7 Tips for Using the Gestalt Theory for Better Composition](http://digital-photography-school.com/7-tips-for-using-the-gestalt-theory-for-better-composition/)
   [20 Composition Techniques That Will Improve Your Photos|http://petapixel.com/2016/09/14/20-composition-techniques-will-improve-photos/]
 
+#### Depth of Field
+- [Depth of Field Simulator](https://dofsimulator.net/) - Great tool to understand how Aperture, Focal Length and Distance control the Depth of Field
+
 #### Double Exposure
 
 - [Multiple exposure](http://en.wikipedia.org/wiki/Multiple_exposure)
