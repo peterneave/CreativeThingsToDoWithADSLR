@@ -65,6 +65,7 @@ _Multiple Exposure Photography_
   [20 Composition Techniques That Will Improve Your Photos|http://petapixel.com/2016/09/14/20-composition-techniques-will-improve-photos/]
 
 #### Depth of Field
+
 - [Depth of Field Simulator](https://dofsimulator.net/) - Great tool to understand how Aperture, Focal Length and Distance control the Depth of Field
 
 #### Double Exposure
@@ -248,9 +249,11 @@ _Place your camera at the end of your tripod/mono pod and take photos of a diffe
 ## Post Processing
 
 ### Colour
+
 - [Colour Scheme Designer](http://paletton.com)
 - [Understanding Colour](http://www.blenderguru.com/tutorials/understanding-colors/)
 - [Popping colour in portaits](http://digital-photography-school.com/make-colors-pop-portraits-without-using-photoshop/)
+- [Secrets of color-grading in photography](https://www.youtube.com/watch?v=mC8ol2-V7Ck)
 
 ### Curves Adjustment
 
